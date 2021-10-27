@@ -1,0 +1,25 @@
+{
+  "name": "123",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.6",
+    "del": "^6.0.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-continuous-concat": "^0.1.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.1",
+    "gulp-uglify-es": "^2.0.0",
+    "sass": "^1.43.4"
+  },
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
